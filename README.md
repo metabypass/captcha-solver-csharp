@@ -1,4 +1,4 @@
-# c#-based CAPTCHA solver ([Metabypass](https://metabypass.tech))
+# C sharp-based CAPTCHA solver ([Metabypass](https://metabypass.tech))
 Free demo (no credit card required) -> https://app.metabypass.tech/application
 
 
@@ -15,3 +15,5 @@ Get the credentials from the [Application](https://app.metabypass.tech/applicati
 
 
  ## Implementation:
+To obtain the results for each type of captcha, do the following steps:
+   1. 
