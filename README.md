@@ -24,7 +24,7 @@ To obtain the results for each type of captcha, do the following steps:
       
    4. Put **token.txt** in YOUR_SOlUTION_PATH/bin/debug
       
-   5. In **Program.cs** write following codes for each type of captcha:
+   5. In **Program.cs** write the following codes for each type of captcha:
        - **Text_Captcha**
      
          ```csharp
